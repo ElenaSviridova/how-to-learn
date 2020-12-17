@@ -10,7 +10,6 @@
 }
 
 .feynman__link:hover {
-  background: gold;
   transition: linear 0.5s;
   opacity: 0.6;
 }
