@@ -9,4 +9,4 @@
 
  Язык: русский
 
-ссылка на Git Hub Pages 
+*[ссылка на Git Hub Pages](https://elenasviridova.github.io/how-to-learn/)
